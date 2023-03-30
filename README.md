@@ -2,6 +2,3 @@
 it does
 
 
-Name: Re
-
-Partner: None
